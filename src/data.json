@@ -1,0 +1,154 @@
+{
+  "Data": [
+    {
+      "hotelName": "Taj Hotel",
+      "img": "https://www.hotelierindia.com/cloud/2024/03/16/r-slide2.jpg-picture-1.jpg",
+      "address": "Surat",
+      "price": "₹ 229,680",
+      "availability": 0,
+      "rating": 2,
+      "id": "1",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "Tanvi Hotel",
+      "img": "https://www.hotelierindia.com/cloud/2024/03/15/radisson-1-1.jpg",
+      "address": " Odisha",
+      "price": "₹ 278,687",
+      "availability": 1,
+      "rating": 3,
+      "id": "2",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "ITC Hotels",
+      "img": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/miscellaneous-pages/new-and-upcoming-hotels-landing-page/desktop/wh-chennai.jpg",
+      "address": "Chennai, Tamil Nadu",
+      "price": "₹ 129,600",
+      "availability": 3,
+      "rating": 4,
+      "id": "3",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "Indu BNB Shimla",
+      "img": "https://media.istockphoto.com/id/1061429904/photo/night-wide-angle-view-of-wynn-macau-a-famous-luxury-hotel-and-casino.jpg?s=612x612&w=0&k=20&c=GbQH3fUDsIj6WU0jsneer3lsnqY8HC2CdE2HTp2l2Ck=",
+      "address": "Shimla",
+      "price": "₹ 159,044",
+      "availability": -3,
+      "rating": 3,
+      "id": "4",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "Taj The Trees, Mumbai",
+      "img": "https://media.istockphoto.com/id/1134682162/photo/the-jumeirah-beach-hotel-in-jumeirah-on-the-coast-of-the-persian-gulf.jpg?s=612x612&w=0&k=20&c=BtA71aEO1418LmXS5r92_COp7I2WjOCf6HTBteENFmE=",
+      "address": "Mumbai",
+      "price": "₹ 204,345",
+      "availability": 3,
+      "rating": 3,
+      "id": "5",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "Yadav Hotel",
+      "img": "https://media.istockphoto.com/id/1159873271/photo/residential-area-in-the-city-modern-apartment-buildings.jpg?s=612x612&w=0&k=20&c=edI11N5XbGUx26oYlpMPRipqjNM86aiEpCM1PfuypPw=",
+      "address": "Mumbai",
+      "price": "₹ 145,960",
+      "availability": 3,
+      "rating": 6,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ],
+      "id": "410c"
+    },
+    {
+      "hotelName": "Radisson Mumbai Goregaon",
+      "img": "https://media.istockphoto.com/id/1306005855/photo/modern-israeli-architecture.jpg?s=612x612&w=0&k=20&c=tIIdpjj9GeB4GeTnlNYxnIbC0_0c23GQRWcFVyVXgNM=",
+      "address": "Mumbai",
+      "price": "₹ 63,617",
+      "availability": -5,
+      "rating": 3,
+      "id": "7",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "Hanuman Hotel",
+      "img": "https://media.istockphoto.com/id/508093327/photo/chandrakasem-rajabhat-university.jpg?s=612x612&w=0&k=20&c=3pmgmJAfFauDxiH1VXwN67zhIfknPpUGEmF-Wo0Lb1M=",
+      "address": "Mumbai",
+      "price": "₹ 88,358",
+      "availability": 3,
+      "rating": 3,
+      "id": "8",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "The Oberoi Mumbai",
+      "img": "https://media.istockphoto.com/id/131395976/photo/swimming-pool.jpg?s=612x612&w=0&k=20&c=SWYmef9HYSPEB0hEQRk3qO_cz5ePymqOYjVnn60b4JA=",
+      "address": "Mumbai",
+      "price": "₹ 118,800",
+      "availability": 0,
+      "rating": 3,
+      "id": "9",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "hotelName": "Hotel Bawa International",
+      "img": "https://media.istockphoto.com/id/1162538065/photo/taj-lands-end-bandra-west-mumbai-maharashtra.jpg?s=612x612&w=0&k=20&c=jjZAEXKEmJeewe5B1xTvCFV3seet5EbFko2FO5TkhGM=",
+      "address": "Mumbai",
+      "price": "₹ 150,568",
+      "availability": 3,
+      "rating": 3,
+      "id": "10",
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    }
+  ]
+}
