@@ -20,7 +20,7 @@
       "img": "https://www.hotelierindia.com/cloud/2024/03/15/radisson-1-1.jpg",
       "address": " Odisha",
       "price": "₹ 278,687",
-      "availability": 1,
+      "availability": -1,
       "rating": 3,
       "id": "2",
       "roomImg": [

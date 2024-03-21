@@ -54,6 +54,7 @@ const Form = () => {
             <Navbar />
             {<Typography variant="h4" component="h2">
                 <h5>Hotel-Id:   {location.state.hotelId}</h5>
+                <h5>Hotel-Name:   {location.state.hotelName}</h5>
             </Typography>}
             <Box
                 component="form"

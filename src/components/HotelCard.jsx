@@ -10,7 +10,9 @@ import Alert from '@mui/material/Alert';
 const Cards = ({ hotelName, image, address, price, defaultValue, hotelList, hotelId, availability }) => {
     const newObj = {
         hotelId: hotelId,
-        hotelList: hotelList
+        hotelList: hotelList,
+        hotelName:hotelName
+
     }
     return (
         <div>

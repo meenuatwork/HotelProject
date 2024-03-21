@@ -39,7 +39,7 @@ function TableComponent() {
             </Navbar>
             <h1 className='hading'>Thank You For Submition!</h1>
             <TableContainer className='table' component={Paper}>
-                <Table sx={{ minWidth: 650 }} aria-label="simple table">
+                <Table sx={{ minWidth: 375 }} aria-label="simple table">
                     <TableHead>
                         <TableRow>
                             <TableCell>Heading</TableCell>
